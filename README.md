@@ -1,4 +1,4 @@
-# R Sound Design – flos (Replica-edit)
+# R Sound Design – flos
 
 > **歌詞登録ステータス：同期歌詞あり**
 
